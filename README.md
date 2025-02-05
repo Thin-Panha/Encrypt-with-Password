@@ -10,7 +10,7 @@
 
 # Starting on 2nd Dec 2024
 
-- github link [https://github.com/shvpn/projectpy.git](https://github.com/shvpn/projectpy.git)
+- github link [https://github.com/shvpn/projectpy.git](https://github.com/Thin-Panha/Encrypt-with-Password)
 
 ## Installation
 
@@ -50,3 +50,4 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
