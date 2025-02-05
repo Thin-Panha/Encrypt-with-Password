@@ -26,7 +26,7 @@ pip install customtkinter tkinter pillow base64
 
 ## Usage
 
-### % Open main.py and run the code (projectpy/src/)
+### % Open main.py and run the code (projectpython/src/)
 
 - #### you will got an pop up UI
 - #### type message in message box
