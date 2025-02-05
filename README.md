@@ -53,5 +53,5 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[developer member1](https://t.me/senghoutork)
-[developer member2](https://t.me/thinpanha)
+[developer_member1](https://t.me/senghoutork)
+[developer_member2](https://t.me/thinpanha)
