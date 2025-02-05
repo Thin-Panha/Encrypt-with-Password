@@ -51,3 +51,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
+## License
+
+[developer member](https://t.me/thinpanha)
