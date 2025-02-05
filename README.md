@@ -10,7 +10,7 @@
 
 # Starting on 2nd Dec 2024
 
-- github link [(https://github.com/Thin-Panha/Encrypt-with-Password).git](https://github.com/Thin-Panha/Encrypt-with-Password)
+- github link [https://github.com/Thin-Panha/Encrypt-with-Password.git](https://github.com/Thin-Panha/Encrypt-with-Password)
 
 ## Installation
 
